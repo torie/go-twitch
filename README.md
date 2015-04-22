@@ -2,20 +2,12 @@
 
 # go-twitch
 
-[![travis-ci status](https://api.travis-ci.org/mrshankly/go-twitch.png)](https://travis-ci.org/mrshankly/go-twitch)
-
 Go library for accessing the [Twitch-API](https://github.com/justintv/Twitch-API).
-
-**This is still a work in progress.**
-
-Check the progress [here](https://github.com/mrshankly/go-twitch/issues/1).
-
-## Usage
 
 To install `go-twitch` run the command:
 
 ```bash
-$ go get github.com/toringej/go-twitch/twitch
+$ go get github.com/torie/go-twitch/twitch
 ```
 
 Here's an example program that gets the top 10 twitch games:
