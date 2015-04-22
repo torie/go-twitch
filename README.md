@@ -1,3 +1,5 @@
+# Forked from [go-twitch](https://github.com/mrshankly/go-twitch)
+
 # go-twitch
 
 [![travis-ci status](https://api.travis-ci.org/mrshankly/go-twitch.png)](https://travis-ci.org/mrshankly/go-twitch)
@@ -13,7 +15,7 @@ Check the progress [here](https://github.com/mrshankly/go-twitch/issues/1).
 To install `go-twitch` run the command:
 
 ```bash
-$ go get github.com/mrshankly/go-twitch/twitch
+$ go get github.com/toringej/go-twitch/twitch
 ```
 
 Here's an example program that gets the top 10 twitch games:
